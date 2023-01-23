@@ -1,0 +1,63 @@
+
+
+
+.logo{
+	max-width:100%;
+	padding:80px 150;
+}	
+body{
+font-family: 'Tiro Bangla', serif;
+background-image: linear-gradient(to bottom right,#0396FF 50%,white 50%);
+
+}
+p{
+	color:#0a0b42;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.container{
+	max-width:1300px;
+	margin:auto;
+	padding-left:400px;
+	padding-right:400px;
+}
+.btn{
+  background-color: rgb(47, 145, 236);
+  color: black;
+  border: none;
+  cursor: pointer;
+  width: 130px;
+  height:130px;
+  opacity: 0.9;
+  text-decoration: none;
+  font-size: 31px;
+  box-shadow: 0 2px 4px rgb(17, 17, 14);
+  transition: all 0.2s ease;
+  border-radius: 40%;
+}
+.btn:hover {
+  background-color:whitesmoke;
+  color:blue;
+}
+.mydiv{
+  text-align:center;
+}
+.btn-2{
+  background-color: rgb(47, 145, 236);
+  color: black;
+  border: none;
+  cursor: pointer;
+  width: 90px;
+  height:50px;
+  opacity: 0.9;
+  text-decoration: none;
+  font-size: 20px;
+  box-shadow: 0 2px 4px rgb(17, 17, 14);
+  transition: all 0.2s ease;
+  border-radius: 70%;
+}
+.btn-2:hover {
+  background-color:whitesmoke;
+  color:blue;
+}
